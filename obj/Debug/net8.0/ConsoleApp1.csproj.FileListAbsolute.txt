@@ -26,3 +26,4 @@ C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\prueba_beca\obj\Debug\net8.
 C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\prueba_beca\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\prueba_beca\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\prueba_beca\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\ana.chavez.velasco\Desktop\Ana\Repositorios\prueba_beca\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
